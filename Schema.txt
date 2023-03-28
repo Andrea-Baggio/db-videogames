@@ -1,0 +1,9 @@
+Inserisco questo file di testo per giustificare le relazioni che ho creato, per trasmettere qual è stato il ragionamento dietro ad ognuna di esse:
+
+- consoles - videogames, un videogioco può essere disponibile su diverse piattaforme;
+- videogames - softer_houses, un videogioco può essere prodotto da una sola softer house (non tenendo conto di collaborazioni);
+- videogames - pegi_classifications, un gioco può avere una sola classificazione;
+- videogames - reviews, un videogioco può ricevere molteplici recensioni; 
+- videogames - awards, molti videogiochi possono ricevere molteplici premi;
+- reviews - players, più giocatori possono scrivere più recensioni; 
+- tournaments - players, molti giocatori possono iscriversi ad un torneo.
